@@ -1,5 +1,7 @@
 # Design-and-Performance-Analysis-of-a-Locally-Manufactured-Autoclave
 
+**IMPORTANT: All the assests are original work of the authors, proper citations is requested for reuse purpose.
+
 Paper Title: Optimizing Palm Oil Extraction: Design and Performance Analysis of a Locally Manufactured Autoclave for Palm Fruit Processing
 
 Authors: Chowdhury Raihan Uddin, Nazib Eadin, Raad Shahmat Haque, and Shuhail Ragib
